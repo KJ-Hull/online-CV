@@ -43,26 +43,26 @@ IoT | Embedded Firmware | Machine Learning | Thermal Modelling
 - Designed circuits and PCBs for test and qualification campaigns (radiation and EMC testing).
 - Analysed radiation and EMC data and reported to customers.
 - Lead fault-finding efforts on reaction wheels by debugging faulty units and providing production with guidance on required reworks.
--- Improved first-time acceptance test passes from 50% to more than 80% per batch through production advisement,
+  - Improved first-time acceptance test passes from 50% to more than 80% per batch through production advisement,
 including component measurements, QC checklists, and testing flowcharts.
 - Developed motor performance and power consumption scripts for reaction wheels in Python.
 - Developed VHDL testbenches for firmware of reaction wheels.
 
 ### Beyond Vision - Electronic Engineering Intern
 #### March 2023 - May 2023 | Lisbon, Portugal
+PCB design | Hardware design | Analytical skills | Communication skills
 -Researched modern satellite communication systems for drones.
 - Consulted with satellite communication companies and created market analyses. This improved decision making on component
 choices for their future projects.
 - Electronic and PCB design of a power electronics circuit for the battery management system for drones.
-Skills used: PCB design, hardware design, analytical skills, communication skills.
 ### CultivAI - Engineering Intern
 #### December 2020 - March 2021 | Somerset West, South Africa
+Hardware design | Communication skills | Software engineering
 -Learning and using AWS to generate a demo device to evaluate system requirements.
 - Developed a sensing device with a Raspberry Pi to send climate data to a backend through AWS.
 - Conducted market research in AgriTech to determine the best strategy for the system to excel on the market.
 - Coordinated technical meetings with five other engineers to develop and grow the device to an MVP for investors.
 - Created an MQTT broker and queuing system for controlling the device remotely.
-Skills used: Hardware design, communication skills, software engineering.
 
 ## Additional Certifications
 - Designing with VHDL - AMD (July 2024)
