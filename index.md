@@ -2,7 +2,7 @@
 - Phone: [+27 78 800 1022](tel:+27 78 800 1022)
 - Location: [Somerset West, Cape Town, South Africa](Somerset West, Cape Town, South Africa)
 - Nationalities: South Africa, Republic of Ireland
-- More about me: [LinkedIn](https://www.linkedin.com/in/keeganjhull/), [Research Gate] (https://www.researchgate.net/profile/Keegan-Hull/research)
+- More about me: [LinkedIn](https://www.linkedin.com/in/keeganjhull/), [Research Gate] (https://www.researchgate.net/profile/Keegan-Hull/research/)
 
 ## Description
 
@@ -14,7 +14,7 @@ various requirements that are needed to achieve high-performance electronics in 
 
 ## Education
 ### MEng Electronic Engineering (Research) - Stellenbosch University
-### February 2022 - December 2023 | Stellenbosch, South Africa
+#### February 2022 - December 2023 | Stellenbosch, South Africa
 
 IoT | Embedded Firmware | Machine Learning | Thermal Modelling
 
@@ -22,18 +22,18 @@ IoT | Embedded Firmware | Machine Learning | Thermal Modelling
 - Achieved a final mark of 70% and was accepted into Golden Key Society
 
 ### BEng Electronic Engineering - Stellenbosch University
-### February 2018 - December 2021 | Stellenbosch, South Africa
+#### February 2018 - December 2021 | Stellenbosch, South Africa
 - Seven out of eleven modules passed with distinction in final year.
 - Dean’s List for three modules during undergraduate studies.
 
 ### Grey High School 
-### January 2013 - December 2018 | Gqeberha, South Africa
+#### January 2013 - December 2018 | Gqeberha, South Africa
 - Graduated high school with five distinctions
 - Overall average of 85% in final year
 
 ## Experience
 ### NewSpace Systems - Electronic Design Engineer Level 1
-### November 2023 - Present | Somerset West, South Africa
+#### November 2023 - Present | Somerset West, South Africa
 - Designed next-generation sun sensor and reaction wheel products with updated electronics and PCBs.
 - Designed electronics using Altium Designer (from schematics to PCB layout, to PCB routing) using IPC standards for PCB design.
 - Simulated designs using Ansys Sherlock for solder fatigue, mechanical shock, and vibration survivability.
@@ -49,14 +49,14 @@ including component measurements, QC checklists, and testing flowcharts.
 - Developed VHDL testbenches for firmware of reaction wheels.
 
 ### Beyond Vision - Electronic Engineering Intern
-### March 2023 - May 2023 | Lisbon, Portugal
+#### March 2023 - May 2023 | Lisbon, Portugal
 -Researched modern satellite communication systems for drones.
 - Consulted with satellite communication companies and created market analyses. This improved decision making on component
 choices for their future projects.
 - Electronic and PCB design of a power electronics circuit for the battery management system for drones.
 Skills used: PCB design, hardware design, analytical skills, communication skills.
 ### CultivAI - Engineering Intern
-### December 2020 - March 2021 | Somerset West, South Africa
+#### December 2020 - March 2021 | Somerset West, South Africa
 -Learning and using AWS to generate a demo device to evaluate system requirements.
 - Developed a sensing device with a Raspberry Pi to send climate data to a backend through AWS.
 - Conducted market research in AgriTech to determine the best strategy for the system to excel on the market.
