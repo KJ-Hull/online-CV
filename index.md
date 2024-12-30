@@ -1,104 +1,94 @@
 - Email: <keegan.j.hull@gmail.com>
 - Phone: [+27 78 800 1022](tel:+27 78 800 1022)
-- Location: [Somerset West, Cape Town, South Africa]
-- More about me: [Portfolio](https://KJ-Hull.github.io/), [LinkedIn](https://www.linkedin.com/in/keeganjhull/)
+- Location: [Somerset West, Cape Town, South Africa](Somerset West, Cape Town, South Africa)
+- Nationalities: South Africa, Republic of Ireland
+- More about me: [LinkedIn](https://www.linkedin.com/in/keeganjhull/), [Research Gate] (https://www.researchgate.net/profile/Keegan-Hull/research)
 
-## Career Goal 
+## Description
 
-To obtain an entry-level position in the industry, where I can utilize my strong problem-solving skills and passion for technology to make a meaningful contribution to the team. With my ability to balance complexity and responsibility, I am confident in taking on challenging projects and delivering high-quality results.
+Electronic design engineer focused on embedded systems and electronic design with multiple years of experience in both. I am seeking a
+new role as a design engineer in the aerospace industry, in a position that will continuously and extensively challenge me. Through my
+experience, I have developed adept skills in PCB design (particularly Altium Designer), VHDL firmware development, system and circuit
+simulations (LTSpice, MATLAB Simscape, and Ansys Sherlock). Further, I have gained extensive knowledge of the space industry and the
+various requirements that are needed to achieve high-performance electronics in high-risk environments.
 
-## Project Experience 
-### Blockchain | Car Mileage Tracker
+## Education
+### MEng Electronic Engineering (Research) - Stellenbosch University
+### February 2022 - December 2023 | Stellenbosch, South Africa
 
-Fresh Perspective Habits | Always Inclined Toward Newer Technology
+IoT | Embedded Firmware | Machine Learning | Thermal Modelling
 
-I have initiated and developed a car mileage tracker using blockchain technology. I have also implemented a web interface that allows insurance companies to query the last updated mileage of the car, ensuring the accuracy of the blockchain smart contract and the reliability of data. 
+- Research into applying the Internet of Things to agriculture through generic hardware and software.
+- Achieved a final mark of 70% and was accepted into Golden Key Society
 
-- Utilized blockchain technology to prevent odometer rollback, which has the potential to save more than **3.56 million dollars** annually.
-- Demonstrated strong skills in blockchain technology, web development and project management.
-- Developed a web interface using **html, css, and javascript** with my teammate.
-- Created a functional and effective solution to a real-world problem.
-- Project Repository [here](https://github.com/vmsaif/blockChainCarMilageTracker)
+### BEng Electronic Engineering - Stellenbosch University
+### February 2018 - December 2021 | Stellenbosch, South Africa
+- Seven out of eleven modules passed with distinction in final year.
+- Dean’s List for three modules during undergraduate studies.
 
-### Android Development | Reversible Learning Application
+### Grey High School 
+### January 2013 - December 2018 | Gqeberha, South Africa
+- Graduated high school with five distinctions
+- Overall average of 85% in final year
 
-Worked on Project Management | Team Player 
+## Experience
+### NewSpace Systems - Electronic Design Engineer Level 1
+### November 2023 - Present | Somerset West, South Africa
+- Designed next-generation sun sensor and reaction wheel products with updated electronics and PCBs.
+- Designed electronics using Altium Designer (from schematics to PCB layout, to PCB routing) using IPC standards for PCB design.
+- Simulated designs using Ansys Sherlock for solder fatigue, mechanical shock, and vibration survivability.
+- Simulated subcircuits and designed control systems in MATLAB, Simulink, and Simscape Electrical.
+- Developed thermal models of motors and their thermal interaction with the mechanics of the reaction wheel.
+- Documented updates in ICDs using configuration control methodologies in Solidworks PDM and Syspro management tools.
+- Designed circuits and PCBs for test and qualification campaigns (radiation and EMC testing).
+- Analysed radiation and EMC data and reported to customers.
+- Lead fault-finding efforts on reaction wheels by debugging faulty units and providing production with guidance on required reworks.
+-- Improved first-time acceptance test passes from 50% to more than 80% per batch through production advisement,
+including component measurements, QC checklists, and testing flowcharts.
+- Developed motor performance and power consumption scripts for reaction wheels in Python.
+- Developed VHDL testbenches for firmware of reaction wheels.
 
-Collaborated with a team to develop an android application called Reversible Learning, a study app that utilizes "the flashcard" method to aid in learning. Utilized Android development skills to create a functional and user-friendly application with features such as: 
-- Allows users to add and practice questions, then reveal the answers by
-”reversing” the notes. The flashcard method can aid in studying **upto 2 times** more than traditional methods.
-- Features a user interface for creating and organizing notes and archiving past questions.
-- Demonstrated strong skills in teamwork and Android development with **UI/UX designer, Object Orientation in Java, HyperSQL database and the Three layers Software Engineering Architecture.**
-- Project Repository [here](https://github.com/vmsaif/reversibleLearning)
+### Beyond Vision - Electronic Engineering Intern
+### March 2023 - May 2023 | Lisbon, Portugal
+-Researched modern satellite communication systems for drones.
+- Consulted with satellite communication companies and created market analyses. This improved decision making on component
+choices for their future projects.
+- Electronic and PCB design of a power electronics circuit for the battery management system for drones.
+Skills used: PCB design, hardware design, analytical skills, communication skills.
+### CultivAI - Engineering Intern
+### December 2020 - March 2021 | Somerset West, South Africa
+-Learning and using AWS to generate a demo device to evaluate system requirements.
+- Developed a sensing device with a Raspberry Pi to send climate data to a backend through AWS.
+- Conducted market research in AgriTech to determine the best strategy for the system to excel on the market.
+- Coordinated technical meetings with five other engineers to develop and grow the device to an MVP for investors.
+- Created an MQTT broker and queuing system for controlling the device remotely.
+Skills used: Hardware design, communication skills, software engineering.
+
+## Additional Certifications
+- Designing with VHDL - AMD (July 2024)
+- Altium Designer Advanced Course - EDA Technologies (November 2024)
+- Introduction to Power Electronics Specialisation - Coursera / University of Colorado Boulder (December 2024)
   
-## Skills 
+## Core Skills 
 
-- Exceptionally skilled in all aspects of Java. 
-- Strong leadership and collaboration skills. 
-- Skilled in critical thinking, logic and math.
+- Coding languages: VHDL, Python, C, C++, Git
+- Engineering Skills: Altium Designer, Ansys Sherlock, LTSPICE, MATLAB, Simulink, Simscape
+- Electronic Tools skills: Soldering, Oscilloscopes, DC power supplies, Signal Generators
+- Soft skills: Leadership, interpersonal relationships, time management, punctuality, self-motivation, communication
 
-### Programming 
-- Git, Docker, UNIX, VS Code, Eclipse, IntelliJ, neo4j 
-- Over 5000 lines: Java, C++, JavaScript, C 
-- Over 1000 lines: Python, HTML, CSS, SQL, Assembly, Prolog, JSON, MongoDB 
+## Extracurricular Activities 
+### Lab Manager of the MTN Media Lab at Stellenbosch University (2023)
+- Managed and coordinated students for the full operation of a postgraduate lab.
+- Functioned as the communication channel between students and the university.
+- Collaborated with individuals to ensure that the goals of the lab were met on time.
 
-## Education 
 
-### University of Manitoba 
-- BSc Major in Computer Science  
-- Expected Graduation: April 2023  
-- Location: Winnipeg, MB
 
-## Coursework 
-- Professional Practice in Computer Science 
-- Technical Communication in CS 
-- Database Implementation 
-- Information Systems for Management 
-- Software Engineering 
-- Distributed Computing 
-- Analysis of Algorithms 
-- Data Structures and Algorithms 
-- Statistics and Computing 
-- Human-Computer Interaction 
-- AI and Game Development  
 
-## Volunteer 
 
-### .dev Programming Club 
-- Active Member  
-- University of Manitoba Students Union (UMSU)  
-- 2018-2023 
 
-As an active member of this club since 2018, I have consistently kept up to date with the latest technologies and programming projects and discussions.
 
-### Student Council 
-- International College of Manitoba (ICM) 
-- May 2016 - August 2016  
 
-As a student support team member, I provided information and assistance to newcomer international students in Winnipeg about courses, study skills, and life in Winnipeg.
-
-## Activities
-
-### Leadership
-Captain of Football Club Vikings, 2012 - 2014, Dhaka, Bangladesh.
-
-### Languages
-- English 
-- German 
-- Bangla (Mother Tongue) 
-- Hindi (speaking only) 
-
-### Hobbies
-- Repairing Computers 
-- DIY Electronic Projects 
-- Cooking 
-- Video Gamer 
-- Traveller
-
-### Achievements
-- FIFA Champion 2017 - Single (UMBSA) and FIFA Champion 2018 - Dual (CBA)
-- Intel PC Guru, PC Build 2007, placed 3rd
-- Participated in the World Cyber Games, Bangladesh in 2007 and 2008
 
 
 
