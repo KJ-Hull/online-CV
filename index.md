@@ -37,11 +37,11 @@ IoT | Embedded Firmware | Machine Learning | Thermal Modelling
 - Designed next-generation sun sensor and reaction wheel products with updated electronics and PCBs.
 - Designed electronics using Altium Designer (from schematics to PCB layout, to PCB routing) using IPC standards for PCB design.
 - Simulated designs using Ansys Sherlock for solder fatigue, mechanical shock, and vibration survivability.
-- Simulated subcircuits and designed control systems in MATLAB, Simulink, and Simscape Electrical.
+- Simulated subcircuits and designed control systems in MATLAB, Simulink, Simscape Electrical, LTSpice, and Tina-Spice.
 - Developed thermal models of motors and their thermal interaction with the mechanics of the reaction wheel.
-- Documented updates in ICDs using configuration control methodologies in Solidworks PDM and Syspro management tools.
+- Documented updates in ICDs using configuration control methodologies in Solidworks PDM and Syspro tools.
 - Designed circuits and PCBs for test and qualification campaigns (radiation and EMC testing).
-- Analysed radiation and EMC data and reported to customers.
+- Analysed radiation and EMC data and reported results to customers.
 - Lead fault-finding efforts on reaction wheels by debugging faulty units and providing production with guidance on required reworks.
   - Improved first-time acceptance test passes from 50% to more than 80% per batch through production advisement,
 including component measurements, QC checklists, and testing flowcharts.
